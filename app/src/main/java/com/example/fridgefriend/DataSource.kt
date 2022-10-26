@@ -3,7 +3,7 @@ package com.example.fridgefriend
 object DataSource {
 
     val foods: MutableList<Food> = mutableListOf(
-//        FoodData(
+//        Food(
 //            R.drawable.dairy,
 //            "Dairy",
 //            "2",
